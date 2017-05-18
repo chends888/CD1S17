@@ -1,4 +1,4 @@
-env	loc	year	gen	yield	height	lodging	size	protein	oil
+env	loc	year	gen	Yield	height	lodging	size	protein	oil
 L70	Lawes	1970	G01	2.387	1.445	4.25	8.45	36.7	20.895
 L70	Lawes	1970	G02	2.282	1.45	4.25	9.95	37.55	20.74
 L70	Lawes	1970	G03	2.567	1.46	3.75	10.85	37.8	21.295
